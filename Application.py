@@ -71,6 +71,8 @@ def add_silence(snd_data, seconds):
     return r
 
 def record():
+
+    "Recording Voice"
     
     it = 1
     while it == 1 :
